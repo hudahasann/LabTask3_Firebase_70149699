@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751002965594",
+    "project_id": "uollostfound",
+    "storage_bucket": "uollostfound.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751002965594:android:e0e7ceb31e7d7063f7aa63",
+        "android_client_info": {
+          "package_name": "com.uol.lostfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZbPJbDL9gGqmbfMXNYq8XUSrzApH1qrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
